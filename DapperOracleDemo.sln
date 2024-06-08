@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DapperOracleDemo", "DapperOracleDemo\DapperOracleDemo.csproj", "{4DED914F-6A2F-4F3A-AC68-7FCE829E8DC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DED914F-6A2F-4F3A-AC68-7FCE829E8DC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DED914F-6A2F-4F3A-AC68-7FCE829E8DC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DED914F-6A2F-4F3A-AC68-7FCE829E8DC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DED914F-6A2F-4F3A-AC68-7FCE829E8DC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D4C82E6-390E-4230-BE32-02B7C1573D32}
+	EndGlobalSection
+EndGlobal
